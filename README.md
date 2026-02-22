@@ -25,3 +25,8 @@
     4.2 Database design (Өгөгдлийн сангийн зохиомж)
     4.3 Detailed design/Logic Flow (Нарийвчилсан дизайн ба логик дараалал)
     4.4 User Interface Design (Хэрэглэгчийн интерфэйс)
+
+
+## Repo structure
+
+Ерөнхийдөө ene repo дээрээ main server app, relay server app, ios client app гээд бүгдийг нь хамтад нь хийгээд явчихдаг юм бил үү гэж бодоод байна.
